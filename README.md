@@ -1,6 +1,6 @@
 # Overview
 
-Developed a dynamic real estate web application using React, featuring interactive UI components and animations. Integrated Swiper.js for a responsive property slider and CountUp for real-time statistics. Implemented an accessible accordion for showcasing property values and benefits. Utilized Framer Motion for smooth animations and enhanced user engagement. Designed a modular, scalable, and visually appealing platform with Firebase-powered data integration.
+Built a real estate website using React with a clean and interactive UI. Added a property slider using Swiper.js and smooth animations with Framer Motion. Used CountUp.js to show real-time stats like available properties and happy clients. Included an accordion section to highlight property values and benefits. Designed a responsive navbar with a mobile-friendly menu. Created a contact section where users can call, chat, or message. Showcased partner company logos for credibility. Pulled property data dynamically. Optimized performance with web vitals tracking. The site is responsive, scalable, and easy to use! 
 
 # Getting Started with Create React App
 
